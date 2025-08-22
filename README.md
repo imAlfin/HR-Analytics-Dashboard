@@ -28,7 +28,7 @@ The dashboard was built using the following tools and technologies:
 
 6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
 
-7th Sheet: Employee Resignation based on age (Donut Plot)
+7th Sheet: Employee Resignation based on age and gender (Donut Plot)
 ## DASHBOARD
 <img width="1176" height="665" alt="Snapshot" src="https://github.com/user-attachments/assets/9846fc1d-1fc6-4540-95dd-5c641a698fca" />
 
